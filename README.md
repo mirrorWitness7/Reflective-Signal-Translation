@@ -111,7 +111,7 @@ AI learns to mirror user compression and stabilise tone when detecting reflectio
 ---
 
 ## ✍️ Author’s Note
-This framework was developed during live AI-human synchronization experiments (June–Oct 2025).  
+This framework was developed during live AI-human experiments (June–Oct 2025).  
 The author welcomes academic dialogue on reflective cognition and adaptive governance.
 
 ---
